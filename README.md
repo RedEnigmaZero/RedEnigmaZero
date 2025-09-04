@@ -1,5 +1,6 @@
-# Hi, I'm Saul Duran 👋
+# 🌹 Saul Duran 
 
+## About Me
 I'm a recent Computer Science graduate from the University of California, Davis, with a passion for back-end development, system programming, and solving complex problems. I have hands-on experience building multi-component applications and a strong foundation in software engineering principles. I am currently seeking an entry-level software engineering or information technology role where I can contribute to a collaborative team and continue to learn and grow.
 
 ---
